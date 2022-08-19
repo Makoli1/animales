@@ -1,0 +1,35 @@
+body{
+    font-family: 'Yellowtail', cursive;
+    background-color: darkolivegreen;
+    
+}
+.header_div{
+    background-color: olivedrab;
+    margin-bottom: 50px;
+    color: wheat;
+    text-shadow: 5px 5px 5px lightpink;
+}
+
+.header_div p{
+    color: whitesmoke;
+    font-family: 'Diplomata SC', cursive;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-shadow:5px 5px blueviolet;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategray;
+    font-weight: bolder;
+}
+.copyright{
+    position: fixed;
+    color: lightskyblue;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    background-color: green;
+    line-height: 3;
+    text-shadow: 5px 5px 5px  cadetblue;
+}
